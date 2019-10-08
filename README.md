@@ -6,4 +6,4 @@ l
 l
 o
 
-THIS IS GREAT
+NO
